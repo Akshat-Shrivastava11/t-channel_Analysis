@@ -467,7 +467,7 @@ def plot_ABCD_ratios(
                 [ratio_3PSVJ_data, ratio_3PSVJ_bg],
                 [errbars_3PSVJ_data, errbars_3PSVJ_bg],
                 [diff_3PSVJ_data_bg],[errbars_3PSVJ_diff], 
-                ["Data 2SVJ", "Background MC 2SVJ"], 
+                ["Data 3SVJ", "Background MC 3SVJ"], 
                 ["b", "r"], 
                 title,
                 "Ratio_Data_3PSVJ.pdf")
